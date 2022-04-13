@@ -69,4 +69,5 @@ export default class TelaListaUsuario extends React.Component{
             </div>
         );  
     }
+    
 }

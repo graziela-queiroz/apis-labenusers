@@ -52,6 +52,7 @@ export default class TelaCadastro extends React.Component{
                 />
               <button onClick={this.postUsers}>Cadastrar</button>
            </div>
+           
       )
     }
 }
